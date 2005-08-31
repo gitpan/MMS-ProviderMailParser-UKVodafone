@@ -1,0 +1,20 @@
+MMS-ProviderMailParser-UKVodafone
+
+MMS::ProviderMailParser::UKVodafone - This provides a default static class for parsing an MMS::MailMessage object into an MMS::MailMessage::ProviderParsed object.
+
+INSTALLATION
+
+To install this module, run the following commands:
+
+    perl Makefile.PL
+    make
+    make test
+    make install
+
+
+COPYRIGHT AND LICENCE
+
+Copyright (C) 2005 Rob Lee
+
+This program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself.
