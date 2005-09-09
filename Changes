@@ -1,5 +1,7 @@
 Revision history for MMS-ProviderMailParser-UKVodafone
 
+0.03    08-Sep-2005 / 19:40
+        Added makefile dependancy for MMS::ProviderMailParser super class.
 0.02    02-Sep-2005 / 15:20
         Modified code to use new MMS::MailMessage-ProviderParsed methods.
 0.01    12-Aug-2004 / 15:34
